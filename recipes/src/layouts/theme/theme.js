@@ -67,6 +67,9 @@ export const darkTheme = createTheme({
     neutral: {
       main: "#72849a",
     },
+    wrapper:{
+      main:"#223141"
+    },
     warning: {
       main: "#ffc675",
     },

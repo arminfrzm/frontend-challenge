@@ -3,9 +3,10 @@ import { Route, Routes } from "react-router-dom";
 import MainLayout from "../layouts/MainLayout";
 // import { ToastContainer } from "react-toastify";
 import NotFound from "../pages/common/NotFound";
-import Recipes from "../pages/dashboard/Recipes";
+import Recipes from "../pages/recipe/Recipes";
 
-const MyCollection = lazy(async () => await import("../pages/MyCollection/MyCollection"));
+const MyCollection = lazy(async () => await import("../pages/recipe/MyCollection"));
+const RecipeDetails = lazy(async () => await import("../pages/recipe/RecipeDetails"));
 
 function AppContainer() {
   return (
@@ -19,6 +20,14 @@ function AppContainer() {
             element={
               <Suspense fallback={<div>loading...</div>}>
                 <MyCollection />
+              </Suspense>
+            }
+          />
+          <Route
+            path="/RecipeDetails/:recipeId"
+            element={
+              <Suspense fallback={<div>loading...</div>}>
+                <RecipeDetails />
               </Suspense>
             }
           />

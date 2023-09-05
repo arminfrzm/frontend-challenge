@@ -29,7 +29,7 @@ const SidebarContent = () => {
           R
         </Typography>
         <Typography variant="h3" sx={{ fontWeight: 800 }}>
-          ECIPE
+          ECIPES
         </Typography>
       </Toolbar>
 
