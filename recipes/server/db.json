@@ -1,0 +1,125 @@
+{
+    "recipes":[
+        {
+            "id":1,
+            "name": "Spaghetti Carbonara",
+            "recipe": "1. Boil spaghetti until al dente. \n2. In a separate pan, cook pancetta until crispy. \n3. Whisk eggs, grated Pecorino Romano cheese, and black pepper in a bowl. \n4. Drain spaghetti, add to the pancetta pan, and toss. \n5. Remove from heat and quickly stir in egg mixture. \n6. Serve with additional cheese and black pepper.",
+            "ingredients": [
+                "200g spaghetti",
+                "100g pancetta",
+                "2 large eggs",
+                "50g Pecorino Romano cheese",
+                "Freshly ground black pepper"
+            ],
+            "picture": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg"
+        },
+        {
+            "id":2,
+            "name": "Chicken Alfredo",
+            "recipe": "1. Cook fettuccine according to package instructions. \n2. Season chicken breasts with salt and pepper, then grill or pan-sear until cooked. \n3. In a saucepan, melt butter, add minced garlic and heavy cream, and simmer. \n4. Stir in grated Parmesan cheese until sauce thickens. \n5. Slice chicken and serve over cooked fettuccine with Alfredo sauce.",
+            "ingredients": [
+                "8 oz fettuccine",
+                "2 boneless chicken breasts",
+                "2 cloves garlic, minced",
+                "1 cup heavy cream",
+                "1 cup grated Parmesan cheese",
+                "Salt and pepper to taste"
+            ],
+            "picture": "https://www.eatingonadime.com/wp-content/uploads/2019/08/Crock-Pot-Chicken-Alfredo-Casserole-Square-Pic.jpg"
+        },
+        {
+            "id":3,
+            "name": "Caesar Salad",
+            "recipe": "1. Tear Romaine lettuce into bite-sized pieces. \n2. In a bowl, mix together mayonnaise, lemon juice, anchovy paste, Worcestershire sauce, minced garlic, and grated Parmesan cheese. \n3. Toss the dressing with lettuce, croutons, and grated Parmesan. \n4. Serve with optional grilled chicken or shrimp.",
+            "ingredients": [
+                "1 head Romaine lettuce",
+                "1/2 cup mayonnaise",
+                "1 lemon, juiced",
+                "1 teaspoon anchovy paste",
+                "1 teaspoon Worcestershire sauce",
+                "2 cloves garlic, minced",
+                "1/4 cup grated Parmesan cheese",
+                "Croutons"
+            ],
+            "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4JHrTdXGtuiDcGBvIGRKfrgoVE0QeP3yOw&usqp=CAU"
+        },
+        {
+            "id":4,
+            "name": "Beef Stir-Fry",
+            "recipe": "1. Slice beef thinly and marinate with soy sauce, ginger, and garlic. \n2. Heat oil in a wok or skillet, stir-fry beef until browned. \n3. Remove beef and stir-fry vegetables until tender-crisp. \n4. Return beef to the wok, add oyster sauce, and toss. \n5. Serve over cooked rice or noodles.",
+            "ingredients": [
+                "1 lb thinly sliced beef",
+                "2 tablespoons soy sauce",
+                "1 teaspoon grated ginger",
+                "2 cloves garlic, minced",
+                "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+                "2 tablespoons oyster sauce",
+                "Cooked rice or noodles"
+            ],
+            "picture": "https://lifeloveandgoodfood.com/wp-content/uploads/2022/06/Pepper-Steak-Stir-Fry-2-1200x1200-1.jpg"
+        },
+        {
+            "id":5,
+            "name": "Caprese Salad",
+            "recipe": "1. Slice ripe tomatoes and fresh mozzarella cheese. \n2. Arrange tomato and mozzarella slices on a plate. \n3. Drizzle with extra-virgin olive oil and balsamic glaze. \n4. Season with salt, pepper, and fresh basil leaves. \n5. Serve immediately as a side dish or appetizer.",
+            "ingredients": [
+                "4 ripe tomatoes",
+                "8 oz fresh mozzarella cheese",
+                "Extra-virgin olive oil",
+                "Balsamic glaze",
+                "Salt and pepper to taste",
+                "Fresh basil leaves"
+            ],
+            "picture": "https://static01.nyt.com/images/2023/07/25/multimedia/MC-Classic-Caprese-fpjw/MC-Classic-Caprese-fpjw-threeByTwoMediumAt2X.jpg"
+        },
+        {
+            "id":6,
+            "name": "Pasta Primavera",
+            "recipe": "1. Cook pasta until al dente. \n2. Sauté garlic and a variety of fresh vegetables (e.g., bell peppers, zucchini, cherry tomatoes) in olive oil. \n3. Toss cooked pasta with sautéed vegetables. \n4. Drizzle with lemon juice, sprinkle with grated Parmesan, and garnish with fresh herbs.",
+            "ingredients": [
+                "8 oz pasta",
+                "2 cloves garlic, minced",
+                "Assorted fresh vegetables",
+                "Olive oil",
+                "Lemon juice",
+                "Grated Parmesan cheese",
+                "Fresh herbs for garnish"
+            ],
+            "picture": "https://joyfoodsunshine.com/wp-content/uploads/2021/04/pasta-primavera-recipe-5.jpg"
+        },
+        {
+            "id":7,
+            "name": "Chocolate Chip Cookies",
+            "recipe": "1. Preheat oven to 350°F (175°C). \n2. Cream butter, sugar, and brown sugar until light and fluffy. \n3. Beat in eggs and vanilla. \n4. In a separate bowl, combine flour, baking soda, and salt. \n5. Gradually add dry ingredients to the wet mixture. \n6. Stir in chocolate chips. \n7. Drop spoonfuls of dough onto a baking sheet. \n8. Bake for 10-12 minutes or until golden brown.",
+            "ingredients": [
+                "1 cup butter, softened",
+                "3/4 cup granulated sugar",
+                "3/4 cup brown sugar",
+                "2 large eggs",
+                "1 teaspoon vanilla extract",
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1/2 teaspoon salt",
+                "2 cups chocolate chips"
+            ],
+            "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8fLa6FVq6yk-585vAv_E3syIAJyDNDXhAg&usqp=CAU"
+        },
+        {
+            "id":8,
+            "name": "Greek Salad",
+            "recipe": "1. Combine chopped cucumbers, tomatoes, red onions, and Kalamata olives in a large bowl. \n2. Drizzle with extra-virgin olive oil and red wine vinegar. \n3. Season with oregano, salt, and pepper. \n4. Add crumbled feta cheese and toss gently. \n5. Serve chilled as a refreshing side dish.",
+            "ingredients": [
+                "2 cucumbers, chopped",
+                "4 tomatoes, chopped",
+                "1 red onion, thinly sliced",
+                "1 cup Kalamata olives",
+                "Extra-virgin olive oil",
+                "Red wine vinegar",
+                "Dried oregano",
+                "Salt and pepper to taste",
+                "Crumbled feta cheese"
+            ],
+            "picture": "https://www.allrecipes.com/thmb/SkWzUVjyC9DRoefa4t7tjkPS0no=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14373-GreekSaladi-mfs-4X3-0354-e8388819cafa4bae843ea433258aa03d.jpg"
+        }
+    ]
+}

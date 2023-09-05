@@ -1,0 +1,30 @@
+@font-face{
+    font-family:'SamsungSans' ;
+    src: url('../fonts/SamsungSans-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display:swap;
+}
+
+button{
+    font-weight: 600 !important;
+}
+.text-12{
+    font-size: 12px !important;
+}
+.text-14{
+    font-size: 14px !important;
+}
+.text-16{
+    font-size: 16px !important;
+}
+.text-18{
+    font-size: 18px !important;
+}
+.text-20{
+    font-size: 20px !important;
+}
+
+.Toastify__toast-body{
+    font-family: 'SamsungSans' ,Tahoma !important;
+}
